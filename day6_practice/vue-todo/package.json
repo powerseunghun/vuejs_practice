@@ -1,8 +1,8 @@
 {
-  "name": "cli-template",
+  "name": "vue-todo",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "seunghun457@gmail.com",
+  "author": "powerseunghun <size411@naver.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
