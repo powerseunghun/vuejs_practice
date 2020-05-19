@@ -1,0 +1,8 @@
+1. index.html contents modify
+   stylesheet, css, font, favicon setting
+
+2. components plan, components architecture
+
+3. each components registration to app.vue
+
+4. execute npm run dev and check
