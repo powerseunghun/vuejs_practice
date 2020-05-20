@@ -1,5 +1,10 @@
 <template>
-  <div>list</div>
+  <section>
+    <ul>
+      <li>
+      </li>
+    </ul>
+  </section>
 </template>
 
 <script>
