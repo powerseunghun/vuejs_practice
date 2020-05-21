@@ -17,9 +17,10 @@
     props: ['propsdata'],
     methods: {
       removeTodo(todoItem, index) {
+        this.$emit('removeTodo', todoItem, index);
         localStorage.removeItem(todoItem);
         // js method, delete 1 from index
-        this.todoItems.splice(index, 1);
+        // this.todoItems.splice(index, 1);
       }
     }
   }
